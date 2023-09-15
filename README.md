@@ -16,7 +16,7 @@ Este projeto tem como objetivo demonstrar a automação de cenários comuns em a
 
 O projeto está estruturado da seguinte forma:
 
-- **src/main/java**: Contém as classes de apoio e configuração para a execução dos testes, como configurações do Selenium e Page Objects.
+- **src/main/java**: Contém as classes de apoio e configuração para a execução dos testes, como configurações do Selenium.
 
 - **src/test/java**: Aqui estão os arquivos de código-fonte para a definição dos cenários de teste em linguagem natural, bem como as etapas de teste em Java.
 
