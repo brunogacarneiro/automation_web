@@ -46,5 +46,3 @@ Se você deseja contribuir para este projeto, fique à vontade para abrir proble
 
 ---
 
-Espero que este projeto de automação web seja útil para demonstrar suas habilidades em automação de testes usando Java, Cucumber e Selenium. Sinta-se à vontade para personalizá-lo e usá-lo como parte do seu portfólio. Boa sorte!
-
